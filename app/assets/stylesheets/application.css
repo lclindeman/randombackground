@@ -1,0 +1,10 @@
+#fullpage {
+	width: 100%;
+}
+
+button {
+	margin-top: 125px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
